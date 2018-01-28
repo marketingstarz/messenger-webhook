@@ -1,0 +1,19 @@
+{
+  "name": "messenger-webhook",
+  "version": "1.0.0",
+  "description": "Webhook for chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marketingstarz/messenger-webhook.git"
+  },
+  "author": "Matthew Gregory",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marketingstarz/messenger-webhook/issues"
+  },
+  "homepage": "https://github.com/marketingstarz/messenger-webhook#readme"
+}
